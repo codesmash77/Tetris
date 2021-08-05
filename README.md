@@ -29,8 +29,8 @@ DOSBOX and NASM
 How to Run
 
 1- Download this code and move the 'tetris' folder to C: directory or Desktop.
-2- Install DOSBOX from this link: Download DOSBOX
-Emulator
+2- Install DOSBOX from this link:
+Download DOSBOX Emulator
 3- After complete installation, go to DOSBOX installation
 directory and run "DOSBox 0.74 Options.bat". This will save you
 from the pain of searching the configuration file yourself and will
@@ -39,9 +39,15 @@ Copy these lines at the end of that file:
 
 mount c: c:\Desktop\Tetris
 c:
-4- Now to run the code, run DOSBOX 0.74 and type
+
+4- Now to run/compile the code, run DOSBOX 0.74 and type:
+
 nasm tetris.asm -o tetris.com
-To run the stop watch, type:
+
+5- To run the Tertris game, type:
+
 tetris.com
-To examine step by step working of the code, type
+
+6- To examine step by step working of the code, type:
+
 afd tetris.com
