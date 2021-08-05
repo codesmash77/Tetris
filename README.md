@@ -29,8 +29,10 @@ DOSBOX and NASM
 How to Run
 
 1- Download this code and move the 'tetris' folder to C: directory or Desktop.
+
 2- Install DOSBOX from this link:
-Download DOSBOX Emulator
+Download DOSBOX Emulator - https://www.dosbox.com/download.php?main=1
+
 3- After complete installation, go to DOSBOX installation
 directory and run "DOSBox 0.74 Options.bat". This will save you
 from the pain of searching the configuration file yourself and will
